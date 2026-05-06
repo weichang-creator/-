@@ -1,0 +1,1676 @@
+[
+  {
+    "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -1.0087739243075007,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": -0.7721132953863239,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": 0.47712125471966255,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.8407332346118066,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C=C(C(=O)C(=C1)C1=CC(=CC=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": 0.8750612633917001,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=NC(C)=NC(NC(=O)NS(=O)(=O)C2=C(CCC(F)(F)F)C=CC=C2)=N1",
+    "log_tox": 2.204119982655925,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.035829825252828,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(SC(F)(F)F)C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N",
+    "log_tox": -1.240218875872628,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F",
+    "log_tox": 1.7085908451503438,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": 0.3117538610557544,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)CC(C)C1=C(NC(=O)C2=CN(C)N=C2C(F)(F)F)C=CS1",
+    "log_tox": 0.17782497186468207,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.4471580313422194,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].[O-]C(=O)C(F)(F)F",
+    "log_tox": 3.0791812460476247,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(O)(C1=CC=C(OC(F)(F)F)C=C1)C1=CN=CN=C1",
+    "log_tox": 1.235528446907549,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)C1=C(CC(C)C)C(C2=NCCS2)=C(N=C1C(F)F)C(F)(F)F",
+    "log_tox": 0.5440680443502758,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.8698182079793282,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F",
+    "log_tox": -0.7423214251308131,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.5593080109070123,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(O)(C1=CC=C(OC(F)(F)F)C=C1)C1=CN=CN=C1",
+    "log_tox": 1.2695129442179163,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C=C(C(=O)C(=C1)C1=CC(=CC=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": 1.0791812460476249,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": -0.15490195998574258,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC1=CC=C(C=C1)C(C1=CC=C(O)C=C1)(C(F)(F)F)C(F)(F)F",
+    "log_tox": 0.32428245529769284,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "C[N+](C)(CCCNS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)CC([O-])=O",
+    "log_tox": 1.8088184250921242,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCN(CC(C)=C)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.9918258159935693,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)C(C)OC(=O)C1=C(C=CC(OC2=C(Cl)C=C(C=C2)C(F)(F)F)=C1)[N+]([O-])=O",
+    "log_tox": -0.9999999999999957,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCN(CC(C)=C)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.8664610916297792,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.8325089127062364,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.6919651027673603,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C=C(F)C=C1)C(F)(F)F",
+    "log_tox": 1.4771212547196624,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)C1=C(C=CC=C1)S(=O)(=O)NC(=O)NC1=NC(OC(F)F)=CC(OC(F)F)=N1",
+    "log_tox": 1.8573324964312685,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)[C@H](\\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)O[C@@H](C#N)C1=CC(OC2=CC=CC=C2)=CC=C1",
+    "log_tox": -2.6736641390710436,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CSC(=O)C1=C(N=C(C(C(=O)SC)=C1CC(C)C)C(F)(F)F)C(F)F",
+    "log_tox": -0.042871802323186436,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 3.3008127941181167,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F",
+    "log_tox": -0.6090648928966191,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=C(C=CC=C1COC(=O)[C@@H]1[C@H](\\C=C(/Cl)C(F)(F)F)C1(C)C)C1=CC=CC=C1",
+    "log_tox": -2.853871964321452,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[NH4+].[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 3.0,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F",
+    "log_tox": 1.4771212547196624,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)C(Cl)CC1=C(Cl)C=C(F)C(=C1)N1N=C(C)N(C(F)F)C1=O",
+    "log_tox": 1.9804578922761,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.3463529744506386,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.88605664769316,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": -1.7569619513136807,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(NC1=C(Cl)C=C(C=C1)C(F)(F)F)C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -2.397940008671929,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F",
+    "log_tox": -1.080921907623921,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F",
+    "log_tox": -1.025949097207118,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Li+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.7481880270062005,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1N=C(C)C(C(=O)C2=C(C=C(C=C2)C(F)(F)F)S(C)(=O)=O)=C1O",
+    "log_tox": 1.9822712330395684,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[NH4+].[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.0,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[NH4+].[O-]C(=O)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F",
+    "log_tox": 2.2627832098507636,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": -0.8239087409443159,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].[O-]C(=O)C1=C(C=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=C1)[N+]([O-])=O",
+    "log_tox": 1.7323937598229686,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 0.9242792860618818,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F",
+    "log_tox": 1.6989700043360187,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCN(CC1=C(Cl)C=CC=C1F)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -1.7471469690200825,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)N(C(=O)N1CO[C@]2(CC3=C(C=CC(Cl)=C3)C2=N1)C(=O)OC)C1=CC=C(OC(F)(F)F)C=C1",
+    "log_tox": -0.18708664335714373,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -3.337242168317482,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCN(CC)C1=C(C=C(C(N)=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": 0.30102999566398136,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)C2=NC=CC=C2C(F)(F)F)=N1",
+    "log_tox": 1.9912260756924949,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(F)(F)C1=CC(Cl)=C(CCNC(=O)C2=CC=CC=C2C(F)(F)F)N=C1",
+    "log_tox": 0.7134905430939426,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.7958800173440725,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.3996737214810382,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=C(F)C(F)=C(COC(=O)[C@H]2[C@@H](\\C=C(/Cl)C(F)(F)F)C2(C)C)C(F)=C1F",
+    "log_tox": -2.096910013008002,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)C1=C(C=CC=C1)S(=O)(=O)NC(=O)NC1=NC(OC(F)F)=CC(OC(F)F)=N1",
+    "log_tox": 2.322219294733919,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=NN(C(=O)N1C(F)F)C1=CC(NS(C)(=O)=O)=C(Cl)C=C1Cl",
+    "log_tox": 1.9722028383790644,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)[C@@H](\\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)O[C@H](C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -4.200659450539525,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCN(CC)C1=C(C=C(C(N)=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.07058107428570677,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 0.9965116721541787,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": 0.28330122870354985,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=CN=C(OC)N2N=C(NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)N=C12",
+    "log_tox": 2.0043213737826426,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)OC1=CC(NC(=O)C2=C(C=CC=C2)C(F)(F)F)=CC=C1",
+    "log_tox": 0.8061799739838873,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "Cl.CNCC[C@H](OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": -0.6655462488490671,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].CS(=O)(=O)[N-]C(=O)C1=C(C=CC(OC2=C(Cl)C=C(C=C2)C(F)(F)F)=C1)[N+]([O-])=O",
+    "log_tox": 3.780317312140151,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)COC1=C(Cl)C=C(F)C(=C1)C1=NN(C)C(OC(F)F)=C1Cl",
+    "log_tox": 0.5185139398778875,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCCl)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -1.3372421683184166,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NCC1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F",
+    "log_tox": 1.0413926851582251,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)OC1=CC(NC(=O)C2=C(C=CC=C2)C(F)(F)F)=CC=C1",
+    "log_tox": 1.0,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C=C(C(=O)NC2=CC=CC=C2C2CC2C2CC2)C(=N1)C(F)F",
+    "log_tox": -0.2076083105017454,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)OC1=CC(NC(=O)C2=C(C=CC=C2)C(F)(F)F)=CC=C1",
+    "log_tox": 0.6812412373755873,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": -1.221848749616349,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCC)C1=C(C(N)=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.08144546944972589,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.4313637641589874,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCN(CC)C1=C(C=C(C(N)=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": 0.30102999566398136,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.5145477526602862,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCOC\\C(=N/C1=C(C=C(Cl)C=C1)C(F)(F)F)N1C=CN=C1",
+    "log_tox": 0.0791812460476252,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=CN=C(OC)N2N=C(NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)N=C12",
+    "log_tox": 2.012837224705172,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.037426497940624,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 0.733999286538387,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "Cl.CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": 0.11394335230683715,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)[C@@H](\\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)O[C@H](C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -0.9208187539523716,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.6989700043360187,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.6020599913279625,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OCCNCCO.CC(=O)NC1=CC(NS(=O)(=O)C(F)(F)F)=C(C)C=C1C",
+    "log_tox": 1.974971994298069,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[O-][N+](=O)C1=CC=C(OC2=C(C=C(C=C2)C(F)(F)F)[N+]([O-])=O)C=C1",
+    "log_tox": -0.13253251214094794,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OCC[NH2+]CCO.[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.568201724066995,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCCOC(=O)C(C)OC1=CC=C(OC2=CC=C(C=N2)C(F)(F)F)C=C1",
+    "log_tox": 0.6954816764901975,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "Cl.CNCC[C@@H](OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": 0.9084850188786499,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.5024271199844328,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(NC1=C(Cl)C=C(C=C1)C(F)(F)F)C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -2.585026652029015,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)N(C(=O)N1CO[C@]2(CC3=C(C=CC(Cl)=C3)C2=N1)C(=O)OC)C1=CC=C(OC(F)(F)F)C=C1",
+    "log_tox": 0.008600171761918041,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=C(C=CC=C1COC(=O)[C@@H]1[C@H](\\C=C(/Cl)C(F)(F)F)C1(C)C)C1=CC=CC=C1",
+    "log_tox": -1.8326826652517945,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].[O-]C(=O)C(F)(F)C(F)F",
+    "log_tox": 4.3222192947339195,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].[O-]C(=O)C1=C(C=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=C1)[N+]([O-])=O",
+    "log_tox": 1.505149978319906,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)[C@H](\\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)O[C@@H](C#N)C1=CC(OC2=CC=CC=C2)=CC=C1",
+    "log_tox": -2.982966660700802,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOCN1C(=C(C#N)C(Br)=C1C(F)(F)F)C1=CC=C(Cl)C=C1",
+    "log_tox": -1.935542010773044,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN(C(=O)C1=CC=CC=C1)C1=CC=CC(C(=O)NC2=C(C=C(C=C2Br)C(F)(C(F)(F)F)C(F)(F)F)C(F)(F)F)=C1F",
+    "log_tox": 0.10720996964786875,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 3.4771212547196626,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCCl)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -1.3716110699496782,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F",
+    "log_tox": -0.4208225527051477,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)C1=C(CC(C)C)C(C2=NCCS2)=C(N=C1C(F)F)C(F)(F)F",
+    "log_tox": 0.5314789170422551,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[NH4+].[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 3.602168551378997,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=CC(=CC=C1NC(=O)C1=CC=CC(I)=C1C(=O)NC(C)(C)CS(C)(=O)=O)C(F)(C(F)(F)F)C(F)(F)F",
+    "log_tox": 1.9041743682841634,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CNC1=C(Cl)C(=O)N(N=C1)C1=CC(=CC=C1)C(F)(F)F",
+    "log_tox": 0.9084850188786499,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F",
+    "log_tox": 2.4216039268698313,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F",
+    "log_tox": -0.368556230986827,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)OC1=CC(NC(=O)C2=C(C=CC=C2)C(F)(F)F)=CC=C1",
+    "log_tox": 0.6117233080073419,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=CC(=CC=C1NC(=O)C1=CC=CC(I)=C1C(=O)NC(C)(C)CS(C)(=O)=O)C(F)(C(F)(F)F)C(F)(F)F",
+    "log_tox": -1.071604147743281,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(OC1=CC=C(OC2=NC=C(C=C2Cl)C(F)(F)F)C=C1)C(O)=O",
+    "log_tox": 3.0,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)[C@@H](\\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)O[C@H](C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -3.7212463990448854,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.505149978319906,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.7328282715969838,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 3.8199385693553953,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C1=C(ON=C1)C1CC1",
+    "log_tox": 2.204119982655925,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(=O)NC1=CC(NS(=O)(=O)C(F)(F)F)=C(C)C=C1C",
+    "log_tox": 3.0,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(OC(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C=C1",
+    "log_tox": 1.7951845896824241,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1N=C(C)C(C(=O)C2=C(C=C(C=C2)C(F)(F)F)S(C)(=O)=O)=C1O",
+    "log_tox": 1.9845273133437926,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C=C(C(=O)NC2=C(C=CC=C2)C2=CC(F)=C(F)C(F)=C2)C(=N1)C(F)F",
+    "log_tox": 0.38021124171160614,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)CNC(NN=C(C=CC2=CC=C(C=C2)C(F)(F)F)C=CC2=CC=C(C=C2)C(F)(F)F)=NC1",
+    "log_tox": -0.8239087409443159,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCC)C1=C(C(N)=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": 0.5024271199844328,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)[C@H](\\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)O[C@@H](C#N)C1=CC(OC2=CC=CC=C2)=CC=C1",
+    "log_tox": -2.657577319177596,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCCOC(=O)C(C)OC1=CC=C(OC2=CC=C(C=N2)C(F)(F)F)C=C1",
+    "log_tox": -0.43179827593300385,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C(=O)N(C(=O)C=C1C(F)(F)F)C1=CC(C(=O)OC(C)(C)C(=O)OCC=C)=C(Cl)C=C1",
+    "log_tox": 0.9684829485539352,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)N(C)S(=O)(=O)NC(=O)C1=CC(N2C(=O)C=C(N(C)C2=O)C(F)(F)F)=C(F)C=C1Cl",
+    "log_tox": 2.0492180226701815,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[NH4+].CCN(CCOP([O-])(=O)OCCN(CC)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.3242824552976926,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[NH4+].[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.8020892578817325,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COCCCC\\C(=N/OCCN)C1=CC=C(C=C1)C(F)(F)F",
+    "log_tox": 0.33304402982348735,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(OC(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C=C1",
+    "log_tox": -0.01772876696043115,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)[C@H](\\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)O[C@@H](C#N)C1=CC(OC2=CC=CC=C2)=CC=C1",
+    "log_tox": -2.468521082957617,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(=O)NC1=CC(NS(=O)(=O)C(F)(F)F)=C(C)C=C1C",
+    "log_tox": 3.0,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.8532722240206831,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=C(C=CC=C1COC(=O)[C@@H]1[C@H](\\C=C(/Cl)C(F)(F)F)C1(C)C)C1=CC=CC=C1",
+    "log_tox": -2.4089353929733894,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=CC(=CC=C1NC(=O)C1=CC=CC(I)=C1C(=O)NC(C)(C)CS(C)(=O)=O)C(F)(C(F)(F)F)C(F)(F)F",
+    "log_tox": 1.4771212547196624,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC1=CC=C(C=C1)C(C1=CC=C(O)C=C1)(C(F)(F)F)C(F)(F)F",
+    "log_tox": 0.4842998393467859,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.0293837776852097,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(OC1=CC=C(OC2=NC=C(C=C2Cl)C(F)(F)F)C=C1)C(O)=O",
+    "log_tox": 2.738780558484369,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN(C1=C(Br)C=C(Br)C=C1Br)C1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": -0.25103713874383776,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C1=C(C=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=C1)[N+]([O-])=O",
+    "log_tox": 1.919078092376074,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[NH4+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.0,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)(=O)C(F)(F)F",
+    "log_tox": -1.200122085202572,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OCCNCCO.CC(=O)NC1=CC(NS(=O)(=O)C(F)(F)F)=C(C)C=C1C",
+    "log_tox": 1.9604707775342989,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "Cl.CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": -0.7033348097384666,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)OC1=CC(NC(=O)C2=C(C=CC=C2)C(F)(F)F)=CC=C1",
+    "log_tox": 1.3979400086720377,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(C(F)(F)F)C(F)(F)OC1=CC(Cl)=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C=C1Cl",
+    "log_tox": 0.037027879755775386,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCCN(CC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.37675070960209855,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)[S@](=O)C(F)(F)F",
+    "log_tox": -1.0204516252959002,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F",
+    "log_tox": 1.2787536009528289,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F",
+    "log_tox": 1.8129133566428555,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FCC(F)(F)F",
+    "log_tox": 2.912753303671323,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 3.4771212547196626,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(C[C@@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)[C@@]21[H])C=C(O)C=C3",
+    "log_tox": -0.8880992871343826,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -1.5686362358409967,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)COC1=C(Cl)C=C(F)C(=C1)C1=NN(C)C(OC(F)F)=C1Cl",
+    "log_tox": 2.0718820073061255,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(F)(F)C1=CC(Cl)=C(CCNC(=O)C2=CC=CC=C2C(F)(F)F)N=C1",
+    "log_tox": 1.6665179805548809,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)N(C(=O)COC1=NN=C(S1)C(F)(F)F)C1=CC=C(F)C=C1",
+    "log_tox": 0.38021124171160614,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCCN(CC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": 1.0,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].COC1=NN(C(=O)[N-]S(=O)(=O)C2=C(OC(F)(F)F)C=CC=C2)C(=O)N1C",
+    "log_tox": 1.9854264740830017,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(F)(F)OC1=CC=C(NC(=O)NN=C(CC2=CC=C(C=C2)C#N)C2=CC=CC(=C2)C(F)(F)F)C=C1",
+    "log_tox": -0.13548891894160756,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1)C1=CC=C(OC(F)F)C=C1",
+    "log_tox": -3.148741651280313,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.9084850188786497,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCCOC(=O)C(C)OC1=CC=C(OC2=CC=C(C=N2)C(F)(F)F)C=C1",
+    "log_tox": 0.4265112613645754,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 3.1760912590556813,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)F",
+    "log_tox": 2.0,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)C2=NC=CC=C2C(F)(F)F)=N1",
+    "log_tox": 2.060697840353612,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 0.5465426634781312,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)OC(F)(F)F",
+    "log_tox": 1.6989700043360187,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C=C(C(=O)C(=C1)C1=CC(=CC=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": 1.3424226808222062,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)C1=C(C(C)=CC=C1)S(=O)(=O)NC(=O)NC1=NC(=NC(OCC(F)(F)F)=N1)N(C)C",
+    "log_tox": 2.8808135922807914,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C=C(C(=O)NC2=CC=CC=C2C2CC2C2CC2)C(=N1)C(F)F",
+    "log_tox": 4.821637332766433e-16,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN(C1=C(Br)C=C(Br)C=C1Br)C1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": -1.4202164033831783,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)[S@@](=O)C(F)(F)F",
+    "log_tox": -0.43770713554352414,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)OC1=CC(NC(=O)C2=C(C=CC=C2)C(F)(F)F)=CC=C1",
+    "log_tox": 1.0,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.36653154442041247,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(NC1=C(Cl)C=C(C=C1)C(F)(F)F)C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -2.3187587626243222,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].CS(=O)(=O)[N-]C(=O)C1=C(C=CC(OC2=C(Cl)C=C(C=C2)C(F)(F)F)=C1)[N+]([O-])=O",
+    "log_tox": 2.832508912706236,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=NC2=NC(NS(=O)(=O)C3=C(OC)N=CC=C3C(F)(F)F)=NN2C(OC)=C1",
+    "log_tox": 1.974971994298069,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(C(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C(F)=C1Cl",
+    "log_tox": 0.21218760440395806,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)N(C)S(=O)(=O)NC(=O)C1=CC(N2C(=O)C=C(N(C)C2=O)C(F)(F)F)=C(F)C=C1Cl",
+    "log_tox": 2.03342375548695,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[O-][N+](=O)C1=CC(=C(Cl)C(=C1NC1=C(Cl)C=C(C=N1)C(F)(F)F)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": -1.278189384787445,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=C(C=CC=C1COC(=O)[C@@H]1[C@H](\\C=C(/Cl)C(F)(F)F)C1(C)C)C1=CC=CC=C1",
+    "log_tox": -2.314258261397647,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)C(F)(F)F",
+    "log_tox": 4.0,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCN(CC)C1=C(C=C(C(N)=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": 0.30102999566398136,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)[S@](=O)C(F)(F)F",
+    "log_tox": -0.6439741428068754,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1[N+]([O-])=O",
+    "log_tox": -0.38721614328026344,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=CC(=C(F)C=C1)C(F)(F)F",
+    "log_tox": 1.5118833609788744,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.0,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1)C1=CC=C(OC(F)F)C=C1",
+    "log_tox": -2.9208187539520134,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.0,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)F",
+    "log_tox": 3.4771212547196626,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].[O-]C1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": 0.9609461957338316,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(C(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C(F)=C1Cl",
+    "log_tox": 0.24797326636180692,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)OC1=CC(NC(=O)C2=C(C=CC=C2)C(F)(F)F)=CC=C1",
+    "log_tox": 0.7323937598229686,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)C1=C(C(C)=CC=C1)S(=O)(=O)NC(=O)NC1=NC(=NC(OCC(F)(F)F)=N1)N(C)C",
+    "log_tox": 2.806179973983887,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 0.9268567089496924,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].[O-]S(=O)(=O)C1=CC=C(OC(=C(C(F)(C(F)(F)F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F)C(F)(F)F)C=C1",
+    "log_tox": 1.3979400086720377,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)[S@@](=O)C(F)(F)F",
+    "log_tox": -1.00744648216786,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=CC(=CC=C1NC(=O)C1=CC=CC(I)=C1C(=O)NC(C)(C)CS(C)(=O)=O)C(F)(C(F)(F)F)C(F)(F)F",
+    "log_tox": -2.677780705265874,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(F)(F)C1=CC(Cl)=C(CCNC(=O)C2=CC=CC=C2C(F)(F)F)N=C1",
+    "log_tox": 1.6324572921847242,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[O-][N+](=O)C1=CC(=C(Cl)C(=C1NC1=C(Cl)C=C(C=N1)C(F)(F)F)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": -0.958607314841771,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=NC(C)=NC(NC(=O)NS(=O)(=O)C2=C(CCC(F)(F)F)C=CC=C2)=N1",
+    "log_tox": 2.1903316981702914,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.03342375548695,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)C(F)(F)F",
+    "log_tox": -1.3204085923174333,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 3.811976944336954,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": -0.7351821769904612,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)N(C(=O)COC1=NN=C(S1)C(F)(F)F)C1=CC=C(F)C=C1",
+    "log_tox": 0.7664128471123995,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1)C1=CC=C(OC(F)F)C=C1",
+    "log_tox": -3.4948500216787366,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "Cl.CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": -0.08618614761628274,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.0969100130080562,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.8325089127062364,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[O-][N+](=O)C1=CC(=C(Cl)C(=C1NC1=C(Cl)C=C(C=N1)C(F)(F)F)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": -0.8386319977650221,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)CC(C)C1=C(NC(=O)C2=CN(C)N=C2C(F)(F)F)C=CS1",
+    "log_tox": -0.4134126953282439,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=CC(=CC=C1NC(=O)C1=CC=CC(I)=C1C(=O)NC(C)(C)CS(C)(=O)=O)C(F)(C(F)(F)F)C(F)(F)F",
+    "log_tox": 1.9595183769729982,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=CN=C(OC)N2N=C(NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)N=C12",
+    "log_tox": 2.167317334748176,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)CNC(NN=C(C=CC2=CC=C(C=C2)C(F)(F)F)C=CC2=CC=C(C=C2)C(F)(F)F)=NC1",
+    "log_tox": -0.6197887582883922,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -0.714442690992224,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CS(=O)(=O)C1=C(COCC(F)(F)F)C(Cl)=C(C=C1)C(=O)C1C(=O)CCCC1=O",
+    "log_tox": 2.0,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)CC(C)C1=C(NC(=O)C2=CN(C)N=C2C(F)(F)F)C=CS1",
+    "log_tox": -0.24260397120697497,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=NN(C(=O)N1C(F)F)C1=CC(NS(C)(=O)=O)=C(Cl)C=C1Cl",
+    "log_tox": 2.0791812460476247,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)C(Cl)CC1=C(Cl)C=C(F)C(=C1)N1N=C(C)N(C(F)F)C1=O",
+    "log_tox": 0.30102999566398136,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Na+].COC1=NN(C(=O)[N-]S(=O)(=O)C2=C(OC(F)(F)F)C=CC=C2)C(=O)N1C",
+    "log_tox": 1.9969492484953812,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 0.35218251811136264,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C(=O)N(C(=O)C=C1C(F)(F)F)C1=CC(C(=O)OC(C)(C)C(=O)OCC=C)=C(Cl)C=C1",
+    "log_tox": 0.5910646070264993,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.505149978319906,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COCCCC\\C(=N/OCCN)C1=CC=C(C=C1)C(F)(F)F",
+    "log_tox": -0.21968268785984799,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Li+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.6901960800285136,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCN(CC1=C(Cl)C=CC=C1F)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": -1.6197887582883759,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F",
+    "log_tox": 2.0,
+    "species": "109",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(C(F)(F)F)C(F)(F)F",
+    "log_tox": 2.3873898263387296,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=C(C=CC=C1COC(=O)[C@@H]1[C@H](\\C=C(/Cl)C(F)(F)F)C1(C)C)C1=CC=CC=C1",
+    "log_tox": -1.1249387366082941,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CN1C=C(C(=O)NC2=CC=CC=C2C2CC2C2CC2)C(=N1)C(F)F",
+    "log_tox": -0.040958607678905905,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)C(C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1)C1=CC=C(OC(F)F)C=C1",
+    "log_tox": -1.9586073148417356,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOCN1C(=C(C#N)C(Br)=C1C(F)(F)F)C1=CC=C(Cl)C=C1",
+    "log_tox": -2.128427064454063,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CSC(=O)C1=C(N=C(C(C(=O)SC)=C1CC(C)C)C(F)(F)F)C(F)F",
+    "log_tox": -0.32790214206428164,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CSC(=O)C1=C(N=C(C(C(=O)SC)=C1CC(C)C)C(F)(F)F)C(F)F",
+    "log_tox": -0.33724216831842496,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCCN(CC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+    "log_tox": 4.821637332766433e-16,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)COC1=CC(N2N=CC(=C(C)C2=O)C(F)(F)F)=C(F)C=C1Cl",
+    "log_tox": 0.39794000867203777,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)COC1=CC(N2N=CC(=C(C)C2=O)C(F)(F)F)=C(F)C=C1Cl",
+    "log_tox": 0.5682017240669951,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[O-][N+](=O)C1=CC(=C(Cl)C(=C1NC1=C(Cl)C=C(C=N1)C(F)(F)F)[N+]([O-])=O)C(F)(F)F",
+    "log_tox": -0.8326826652518209,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].CC(=O)NC1=CC([N-]S(=O)(=O)C(F)(F)F)=C(C)C=C1C",
+    "log_tox": 2.040602340114073,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)CNC(NN=C(C=CC2=CC=C(C=C2)C(F)(F)F)C=CC2=CC=C(C=C2)C(F)(F)F)=NC1",
+    "log_tox": 0.2304489213782742,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F",
+    "log_tox": 0.2304489213782742,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[Li+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 0.6232492903979006,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)N(C(=O)N1CO[C@]2(CC3=C(C=CC(Cl)=C3)C2=N1)C(=O)OC)C1=CC=C(OC(F)(F)F)C=C1",
+    "log_tox": -0.34486156518861694,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=CC(=CC=C1NC(=O)C1=CC=CC(I)=C1C(=O)NC(C)(C)CS(C)(=O)=O)C(F)(C(F)(F)F)C(F)(F)F",
+    "log_tox": -1.1771783546968888,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(F)(F)C1=CC(Cl)=C(CCNC(=O)C2=CC=CC=C2C(F)(F)F)N=C1",
+    "log_tox": 0.6946051989335689,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=C(C=CC=C1COC(=O)[C@@H]1[C@H](\\C=C(/Cl)C(F)(F)F)C1(C)C)C1=CC=CC=C1",
+    "log_tox": -3.4634415574272075,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[NH4+].[O-]C(=O)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F",
+    "log_tox": 1.9863237770507653,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)N(C(=O)N1COC2(CC3=C(C=CC(Cl)=C3)C2=N1)C(=O)OC)C1=CC=C(OC(F)(F)F)C=C1",
+    "log_tox": 0.049218022670182084,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)[C@@H](NC1=C(Cl)C=C(C=C1)C(F)(F)F)C(=O)OC(C#N)C1=CC(OC2=CC=CC=C2)=CC=C1",
+    "log_tox": -3.040958607678429,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)(O)C(F)(F)C(F)F",
+    "log_tox": 2.7649229846498886,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OCC(F)(F)F",
+    "log_tox": 2.075546961392531,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCOC\\C(=N/C1=C(C=C(Cl)C=C1)C(F)(F)F)N1C=CN=C1",
+    "log_tox": -0.236572006437062,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCCOC\\C(=N/C1=C(C=C(Cl)C=C1)C(F)(F)F)N1C=CN=C1",
+    "log_tox": -0.05060999335508672,
+    "species": "21",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CO\\C=C(\\C(=O)OC)C1=C(COC2=NC(=CC=C2)C(F)(F)F)C=CC=C1",
+    "log_tox": -1.0655015487564272,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(OC1=CC=C(OC2=NC=C(C=C2Cl)C(F)(F)F)C=C1)C(O)=O",
+    "log_tox": 2.9030899869919438,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "Cl.CNCC[C@H](OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": 0.8388490907372553,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "FC(C(F)(F)F)C(F)(F)OC1=CC(Cl)=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C=C1Cl",
+    "log_tox": 1.8639173769578603,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1[N+]([O-])=O",
+    "log_tox": -0.6777807052660787,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 2.0,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC(=O)N(C(=O)N1CO[C@]2(CC3=C(C=CC(Cl)=C3)C2=N1)C(=O)OC)C1=CC=C(OC(F)(F)F)C=C1",
+    "log_tox": 0.0791812460476252,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CNC1=C(Cl)C(=O)N(N=C1)C1=CC(=CC=C1)C(F)(F)F",
+    "log_tox": 1.212187604403958,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCOC(=O)C(C)OC(=O)C1=C(C=CC(OC2=C(Cl)C=C(C=C2)C(F)(F)F)=C1)[N+]([O-])=O",
+    "log_tox": 0.5682017240669951,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "Cl.CNCC[C@@H](OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1",
+    "log_tox": -0.6736641390712466,
+    "species": "1",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1=C(F)C(F)=C(COC(=O)[C@H]2[C@@H](\\C=C(/Cl)C(F)(F)F)C2(C)C)C(F)=C1F",
+    "log_tox": -2.070581074285656,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": -1.9999999999999565,
+    "species": "5156",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 0.9030899869919436,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C1=C(ON=C1)C1CC1",
+    "log_tox": 0.6532125137753437,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "[K+].[O-]S(=O)(=O)C1(F)C(F)(F)C(F)(F)C(F)(C(F)(F)C(F)(F)F)C(F)(F)C1(F)F",
+    "log_tox": 2.270934912874858,
+    "species": "5",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC(C)[C@@H](NC1=C(Cl)C=C(C=C1)C(F)(F)F)C(=O)OC(C#N)C1=CC(OC2=CC=CC=C2)=CC=C1",
+    "log_tox": -2.9244530386071044,
+    "species": "2",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "COC1=NC2=NC(NS(=O)(=O)C3=C(OC)N=CC=C3C(F)(F)F)=NN2C(OC)=C1",
+    "log_tox": 2.0,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1",
+    "log_tox": -3.267606240176227,
+    "species": "4",
+    "endpoint": "LC50"
+  },
+  {
+    "smiles": "OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "log_tox": 1.9081095403925523,
+    "species": "5",
+    "endpoint": "LC50"
+  }
+]
